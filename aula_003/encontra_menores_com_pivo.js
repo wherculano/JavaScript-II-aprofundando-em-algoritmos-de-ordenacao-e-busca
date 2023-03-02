@@ -38,4 +38,5 @@ function divideNoPivo(array){
     
     return array
 }
-console.log(divideNoPivo(listaLivros))
+// console.log(divideNoPivo(listaLivros))
+module.exports = trocaLugar
